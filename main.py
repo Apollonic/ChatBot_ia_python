@@ -9,6 +9,7 @@
 # a ia que vamos usar: OpenIA
 
 import streamlit as st
+import os
 from openai import OpenAI
 
 # aqui eu uso uma versão grátis!
